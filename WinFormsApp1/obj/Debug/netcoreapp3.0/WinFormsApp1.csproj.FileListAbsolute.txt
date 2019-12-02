@@ -1,0 +1,14 @@
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csprojAssemblyReference.cache
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.exe
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.deps.json
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.runtimeconfig.json
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.dll
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\WinFormsApp1.pdb
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.AssemblyInfo.cs
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.dll
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.pdb
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\ExcelDataReader.dll
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.0\WinFormsApp1.csproj.CopyComplete
+C:\Users\X190629\Desktop\Projetos\PoCs\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.0\ExcelDataReader.DataSet.dll
